@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: ECCI- ROBOTICS AND TECHNOLOGY
 
 # Your name to show in the footer
-author: Some Person
+author: Luis ...
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -125,8 +125,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#BEDFF7"
+navbar-text-col: "#C0C2C0"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
